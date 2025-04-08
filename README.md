@@ -1,5 +1,18 @@
 # classic-calc
-sharing my project, very much excited
+An andoid application which performs the functions of a basic calculator, scientific calculator and unit converter.
+You can run this projects's apk file on any android mobile phone and work on this project using android studios.
+
+## Screenshorts:
+
+* Main Screen:
+
+<div>
+  <img src="https://github.com/anubhavshrimal/CalculatorApp/blob/master/screenshorts/device-2016-11-02-205344.png" alt="Main Screen" height="700dp">
+</div>
+
+---
+
+*sharing my project, very much excited
 Standard Calc & History of Calc:
 
 <div>
